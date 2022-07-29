@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "loom-remap-test",
+  "version": "0.0.1",
+  "mixins": [
+    "test.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.19"
+  }
+}
